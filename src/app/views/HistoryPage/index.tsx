@@ -44,6 +44,7 @@ export const HistoryPage = () => {
                 <DataTable value={items} tableStyle={{ minWidth: '50rem' }}>
                     <Column field="id" header="Id" sortable style={{ width: '25%' }}></Column>
                     <Column field="createdAt" header="Date" sortable style={{ width: '25%' }} body={dateBodyTemplate}></Column>
+                    <Column field="category" header="Category" sortable style={{ width: '25%' }}></Column>
                     <Column field="operation" header="Operation type" sortable style={{ width: '25%' }} body={statusBodyTemplate}></Column>
                     <Column field="amount" header="Amount" sortable style={{ width: '25%' }}></Column>
                 </DataTable>
