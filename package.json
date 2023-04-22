@@ -10,11 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/raleway": "^4.5.12",
     "primeflex": "^3.3.0",
+    "primeicons": "^6.0.1",
     "primereact": "^9.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.10.0"
+    "react-router-dom": "^6.10.0",
+    "recoil": "^0.7.7",
+    "recoil-persist": "^4.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",

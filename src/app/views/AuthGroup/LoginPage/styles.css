@@ -1,0 +1,61 @@
+
+.auth__heading {
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 41px;
+
+    color: #283CDB;
+}
+
+.senid {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #283CDB;
+}
+
+.senid .senid__id {
+    color: #222222;
+}
+
+.auth__desc {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: rgba(34, 34, 34, 0.4);
+    margin-top: 10px;
+}
+
+.auth-page .button__blue {
+    background-color: #283CDB;
+}
+
+.auth__signup {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: rgba(34, 34, 34, 0.25);
+}
+
+.auth__link {
+    color: #283CDB;
+    text-decoration: none;
+}
+
+.auth__container label {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #222222;
+}
+
+.auth-page .blue__multiselect.p-selectbutton .p-button.p-highlight {
+    background-color: #E9EBFB;
+    color: #283CDB;
+    border-color: #283CDB;
+    border-right: 1px solid #283CDB;
+}
